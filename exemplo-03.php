@@ -20,4 +20,14 @@ $frutas = array("Abacaxi", "Laranja", "Manga");
 
 //objeto
 $nascimento = new DateTime();
+//var_dump($nascimento);
+
+//Resource
+$arquivo = fopen("exemplo-03.php", "r");
+// var_dump($arquivo);
+
+$nulo = NULL;
+
+$vazio = "";
+
 ?>
