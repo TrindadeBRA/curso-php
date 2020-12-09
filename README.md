@@ -1,6 +1,6 @@
-# Curso PHP - Hcode
+#👨🏻‍💻 Curso PHP - Hcode
 
 ## Exemplos codados em aula.
 
-### Tecnologia:
-<img src="https://img.shields.io/badge/php-F7DF1E?style=for-the-badge&logo=php&logoColor=black" alt="PHP Badge" />
+### Tecnologias:
+<img src="https://img.shields.io/badge/php-CECECE?style=for-the-badge&logo=php&logoColor=black" alt="PHP Badge" /> <img src="https://img.shields.io/badge/MySQL-CECECE?style=for-the-badge&logo=MySQL&logoColor=black" alt="MySQL Badge" />
